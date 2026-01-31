@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Flask API",
+    "status": "working"
+  },
+  {
+    "id": 2,
+    "name": "MongoDB Atlas",
+    "status": "connected"
+  }
+]
